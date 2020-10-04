@@ -3,7 +3,7 @@ from django.shortcuts import render
 
 APP_NAME = os.path.basename(os.path.dirname(os.path.abspath(__file__)))
 
-SITE_NAME = 'site1.ru'
+SITE_NAME = 'atv-rental.ru'
 # SITE_NAME = 'atv-rental.ru'
 
 
