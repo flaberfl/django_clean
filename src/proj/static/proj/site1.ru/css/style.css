@@ -734,7 +734,7 @@ body {
 
 .expertise__item-title {
   color: #EF4352;
-  font-size: 2em;
+  font-size: 20em;
   line-height: 36px;
   padding-bottom: 20px;
   font-weight: bold;
@@ -1421,7 +1421,7 @@ body {
     width: 20%;
   }
   .expertise__item-title {
-    font-size: 48px;
+    font-size: 4px;
     line-height: 58px;
     padding-bottom: 20px;
     font-weight: bold;
